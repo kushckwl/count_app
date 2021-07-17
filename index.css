@@ -17,6 +17,13 @@ h2 {
     margin-bottom: 20px;
 }
 
+.main{
+    display: grid;
+    place-items: center;
+    margin-top: 100px;
+}
+
+
 button {
     border: none;
     padding-top: 10px;
